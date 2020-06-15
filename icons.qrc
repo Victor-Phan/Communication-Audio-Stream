@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/high-volume.png</file>
+        <file>icons/medium-volume.png</file>
+        <file>icons/microphone.png</file>
+        <file>icons/no-microphone.png</file>
+        <file>icons/low-volume.png</file>
+        <file>icons/mute.png</file>
+        <file>icons/rewind.png</file>
+        <file>icons/fast-forward.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/play.png</file>
+    </qresource>
+</RCC>
